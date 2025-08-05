@@ -1,3 +1,3 @@
 # vasra.github.io
 
-<a href="/about/">About</a>
+<a href="/about.md">About</a>
